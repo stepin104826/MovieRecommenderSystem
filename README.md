@@ -1,7 +1,7 @@
 # MovieRecommenderSystem
 
 ## Overview
-This project is a Streamlit-based web application that recommends movies based on user selection. It uses data from The Movie Database (TMDB) to provide movie information and recommendations.
+This project is a Streamlit-based web application that is build on a Machine Learning NLP model using Google's fine-tuned Word2Vec recommends movies based on user selection. It uses data from The Movie Database (TMDB) to provide movie information and recommendations.
 
 ## Features
 - Movie selection from a comprehensive database

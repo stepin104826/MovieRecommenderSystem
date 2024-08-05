@@ -1,5 +1,5 @@
 # MovieRecommenderSystem
-
+<img src="CareerAnalysis.png" alt="Your Logo" height="100" width="150" />  
 ## Overview
 This project is a Streamlit-based web application that is build on a Machine Learning NLP model using Google's fine-tuned Word2Vec, that recommends movies based on user selection. It uses data from The Movie Database (TMDB) to provide movie information and recommendations.
 
